@@ -11,5 +11,6 @@ public class Main {
         int a = 10;
         Student1 student11 = new Student1();
         Student1 student12 = new Student1();
+        Student1 student13 = new Student1();
     }
 }
