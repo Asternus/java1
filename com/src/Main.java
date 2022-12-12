@@ -9,5 +9,7 @@ public class Main {
         Test test2 = new Test();
         Test test3 = new Test();
         int a = 10;
+        Student1 student11 = new Student1();
+
     }
 }
