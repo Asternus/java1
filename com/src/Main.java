@@ -5,5 +5,7 @@ public class Main {
         final Student1 student3 = new Student1();
         final Student1 student4 = new Student1();
         final Student1 student5 = new Student1();
+        final Student1 student6 = new Student1();
+        final Student2 student7 = new Student2();
     }
 }
