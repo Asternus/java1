@@ -1,3 +1,5 @@
+package hw99;
+
 public class Main {
     public static void main(String[] args) {
         final Student1 student1 = new Student1();
@@ -8,8 +10,13 @@ public class Main {
         Test test = new Test();
         Test test2 = new Test();
         Test test3 = new Test();
-        int a = 10;
-        Student1 student11 = new Student1();
+        int age = 10;
+        Student1 studentVadim = new Student1();
+        Student1 student12 = new Student1();
+        Student1 student13 = new Student1();
+        Student1 student14 = new Student1();
+
+
 
     }
 }
